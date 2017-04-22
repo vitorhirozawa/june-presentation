@@ -1,0 +1,21 @@
+{
+  "name": "june-presentation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.2"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "ionicons": "^3.0.0"
+  },
+  "description": ""
+}
